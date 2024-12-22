@@ -84,4 +84,4 @@ endmodule
 
 **RESULT**
 
-     Thus 4 bit synchronous up counter is implemented and functionality is validated.
+Thus 4 bit synchronous up counter is implemented and functionality is validated.
