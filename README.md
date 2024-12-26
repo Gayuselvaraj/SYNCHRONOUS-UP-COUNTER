@@ -75,7 +75,7 @@ endmodule
 
 
 
-**TIMING DIAGRAM FOR uP COUNTER**
+**TIMING DIAGRAM FOR UP COUNTER**
 
 
 ![394725924-f594365d-73f6-4b24-9c5a-08ad36de5dc8](https://github.com/user-attachments/assets/3ec83aa5-6eed-4f77-8b9a-6d1554365c74)
